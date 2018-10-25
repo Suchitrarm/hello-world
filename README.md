@@ -1,2 +1,2 @@
 # hello-world
-First test project
+Hello world test project
